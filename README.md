@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Dave Luper and I am the inventor of the <a href="https://www.trapntell.com">Smart Animal Trap</a>
+So I created a better mouse trap, actually a better trap for all types of creatures! See I own a pest control company, and I had lots of customers looking for ways to catch snakes and rats in there yard. Well I am not a fan of rat poison because it can be dangorous, if the rat ingests it and dies you could suffer non target secondary kills, if you pet decided to eat the poisoned dead rat, believe me it happens. Or there are sticky pads, not that great outdoors, and there are live rat and snake traps, but you have to check on them constantly. <p>
+  What I designed was a simply smart trap, this trap will send you a picture the moment something is caught and then you can go empty the trap and it will be ready for another catch, in fact it gets better after each catch because the animal leaves it's scent and doesn't leave the smell of death in the trap. And more that one animal can go into the trap at a time!<p>
+  Now I got everything built and right as I started anouncing it I made a decision, open source. I am learning more about license types and would love help in deciding which way to go with this license. I am fully intending on selling the built devices as well as parts for the traps and giving away the plans, I just don't quite know what the best license would be for what I am trying to do.<p>
+    If you have any thoughts or input on this as far as license or anything feel free to message me!<p>
 
 <!--
 **Trap-n-Tell/Trap-n-tell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
